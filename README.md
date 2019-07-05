@@ -14,5 +14,5 @@ Iniciamos pela ideia que de usar 1 matriz e 4 submatriz, dessa forma temos que o
 Dessa forma, para verificar o vencedor, analisamos todas as linhas e colunas á procura de uma sequência de cinco “X” ou “O”.
 
 ### Autores:
-Bernardo Andrade de Carvalho
+Bernardo Andrade de Carvalho,
 Rodrigo dos Santos Pequeno
